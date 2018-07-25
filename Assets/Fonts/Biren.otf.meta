@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 59bee304e98b07147b8e4e072f1797d7
+timeCreated: 1530856103
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Biren
+  fontNames:
+  - Biren
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

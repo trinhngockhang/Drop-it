@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b5bf847f27b9186499c6c49daddf2de6
+timeCreated: 1530855957
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TradeMark Demo
+  fontNames:
+  - TradeMark Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
